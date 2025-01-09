@@ -35,7 +35,7 @@
 
   <hr>
     <footer>
-        <p>Desenvolvido por [Andy Dos Santos Raposo]</p>
+        <p>Desenvolvido por Andy Dos Santos Raposo</p>
     </footer>
 </body>
 </html>
