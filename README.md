@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - Curso de Verão IME/USP - Introdução ao R</title>
-</head>
-<body>
-    <h1>Curso de Verão IME/USP - Introdução ao R</h1>
+
+ <h1>Curso de Verão IME/USP - Introdução ao R</h1>
 
   <p>Bem-vindo ao repositório! Este espaço é dedicado aos trabalhos desenvolvidos durante o curso de verão do IME/USP de <strong>Introdução ao R</strong>. Aqui você encontrará materiais e exercícios relacionados ao aprendizado dessa linguagem de programação estatística.</p>
 
