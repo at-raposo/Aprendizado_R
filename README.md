@@ -21,22 +21,16 @@
     <p>Este repositório é de uso pessoal, mas feedback e sugestões são bem-vindos! Sinta-se à vontade para abrir issues ou entrar em contato caso tenha interesse em colaborar. Abaixo segue as formas que você pode me encontrar
     </p>
 
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/thain%C3%A1-raposo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/Raposo_tech" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://t.me/raposo_tech" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://www.outlook.com/?refd=account.microsoft.com&fref=home.banner.viewinbox" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
-</div>
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:contate.raposo@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andy-raposo/" alt="LinkedIn"/></a>
+  <a href="#" title="Twitter">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nerdyshittt/" alt="Instagram"/></a>
+</p>
 
   <h2>Licença</h2>
     <p>Este repositório está disponível sob a licença MIT. Sinta-se livre para utilizá-lo como inspiração ou referência, respeitando os termos da licença.</p>
